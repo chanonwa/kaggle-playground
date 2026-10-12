@@ -1,0 +1,42 @@
+# Kaggle credentials and secrets
+kaggle.json
+.env
+.env.*
+!.env.example
+
+# Competition data and outputs
+data/
+input/
+output/
+submissions/
+*.csv
+*.parquet
+*.feather
+*.zip
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
