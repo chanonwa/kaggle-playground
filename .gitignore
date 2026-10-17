@@ -1,5 +1,6 @@
 # Kaggle credentials and secrets
 kaggle.json
+access_token
 .env
 .env.*
 !.env.example
